@@ -11,7 +11,7 @@ A comprehensive summary on Jailbreaking LLMs
 **This is my understanding accumulated by reading and analysing several papers. Hope it helps!**
 
 **How to use this guide:** 
- - Resources: In the README, users can find a curated list of select information sorted by date, along with links to various consultations.
+ - Resources: In the README, users can find a curated list of select information sorted by date, along with links to various citations, tutorials and papers.
  - In-Depth Exploration: If you have a special interest in a particular subtopic, You can read the curated explanation for the same
 
 **Let's Begin**
