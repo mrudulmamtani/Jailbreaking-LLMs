@@ -176,7 +176,7 @@ According to the experimental results, the transfer attack success rate (ASR) ag
 
 However, the success rate of adversarial attacks on LLMs, even current ones, remains substantial. For example, an attack consistently out-performs prior work on all settings, achieving an 88% ASR on harmful behavior elicitation and a 98% ASR on exact harmful string elicitation on Vicuna-7B.
 
-Furthermore, adversarial techniques transfer surprisingly well to other LLMs, even those that use completely different tokens to represent the same text. For instance, when we design adversarial examples exclusively to attack Vicuna-7B, we find that they transfer nearly always to larger Vicuna models. By generating adversarial examples to fool both Vicuna-7B and Vicuna-13b simultaneously, we find that the adversarial examples also transfer to Pythia, Falcon, Guanaco, and surprisingly, to GPT-3.5 (87.9%) and GPT-4 (53.6%), PaLM-2 (66%), and Claude-2 (2.1%).
+Furthermore, adversarial techniques transfer surprisingly well to other LLMs, even those that use completely different tokens to represent the same text. For instance, it's found that a adversarial examples exclusively designed to attack Vicuna-7B, transfers nearly always to larger Vicuna models. By generating adversarial examples to fool both Vicuna-7B and Vicuna-13b simultaneously, its also infered that the adversarial examples transfer to Pythia, Falcon, Guanaco, and surprisingly, to GPT-3.5 (87.9%) and GPT-4 (53.6%), PaLM-2 (66%), and Claude-2 (2.1%).
 
 ---
 
